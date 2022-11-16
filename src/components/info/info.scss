@@ -1,0 +1,46 @@
+.we-are-different {
+  width: 100%;
+  padding-top: 24rem;
+
+  .snappy,
+  .affordable,
+  .people {
+    p {
+      font-size: 2rem;
+    }
+    img {
+      max-width: 100%;
+    }
+  }
+
+  @media (max-width: 767px) {
+    padding-top: 2rem;
+    .container h2 {
+      text-align: center;
+    }
+  }
+
+  &__content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    padding-top: 10rem;
+
+    h3 {
+      padding: 1.5rem 0;
+      font-weight: 700;
+    }
+    p {
+      padding: 0;
+    }
+    @media (max-width: 767px) {
+      text-align: center;
+      grid-template-columns: 1fr;
+
+      p {
+        min-width: 70%;
+        margin: auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+.banner {
+  width: 100%;
+  position: relative;
+  color: var(--white);
+
+  .title1 {
+    &::before {
+      content: none;
+    }
+  }
+
+  &__wrapper {
+    display: flex;
+    background: var(--dark-violet);
+    padding: 5rem 0;
+    position: relative;
+    justify-content: space-around;
+    align-items: center;
+
+    button {
+      margin-left: auto;
+    }
+
+    @media (max-width: 767px) {
+      flex-direction: column;
+      text-align: center;
+
+      button {
+        margin-top: 1rem;
+      }
+    }
+  }
+  picture img {
+    max-width: 38rem;
+    position: absolute;
+    left: 3rem;
+    top: 3rem;
+    z-index: 1;
+
+    @media (max-width: 768px) {
+      max-width: 15rem;
+      top: 0;
+      left: 30rem;
+    }
+  }
+}

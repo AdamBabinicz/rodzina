@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 219 209" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="a">
+   <stop stop-color="#f2f2f2" stop-opacity=".992" offset=".17969"/>
+   <stop stop-color="#d6d6d6" stop-opacity=".988" offset=".80469"/>
+  </linearGradient>
+ </defs>
+ <g fill="none" stroke="#007fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <g fill-opacity=".75" fill-rule="evenodd">
+   <path d="m9.7231 92.568l55.882 16.471 51.471-17.353"/>
+   <path d="m25.017 202.27l40.882-60.294 31.765 59.706"/>
+   <path d="m65.928 142.09v-64.368"/>
+  </g>
+  <g stroke-miterlimit="100">
+   <path d="m103.87 43.616a37.283 34.342 0 1 1 -74.565 0 37.283 34.342 0 1 1 74.565 0z"/>
+   <path d="m63.073 36.779a5.9591 5.9591 0 1 1 -11.918 0 5.9591 5.9591 0 1 1 11.918 0z"/>
+   <path d="m82.632 36.779a5.9591 5.9591 0 1 1 -11.918 0 5.9591 5.9591 0 1 1 11.918 0z"/>
+   <path d="m87.835 54.764a31.213 33.701 0 0 1 -39.968 1.4989"/>
+  </g>
+ </g>
+ <g fill="none" stroke="#ffaad4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <g fill-opacity=".75" fill-rule="evenodd">
+   <path d="m128.64 116.99l42.002 12.675 38.686-13.354"/>
+   <path d="m140.14 201.41l30.727-46.398 23.874 45.946"/>
+   <path d="m170.88 155.1v-49.533"/>
+  </g>
+  <g stroke-miterlimit="100">
+   <path d="m199.4 79.317a28.022 26.427 0 1 1 -56.044 0 28.022 26.427 0 1 1 56.044 0z"/>
+   <path d="m168.74 74.056a4.4789 4.5857 0 1 1 -8.9578 0 4.4789 4.5857 0 1 1 8.9578 0z"/>
+   <path d="m183.44 74.056a4.4789 4.5857 0 1 1 -8.9578 0 4.4789 4.5857 0 1 1 8.9578 0z"/>
+   <path d="m187.35 87.897a23.46 25.934 0 0 1 -30.04 1.1535"/>
+  </g>
+ </g>
+ <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+  <g fill-opacity=".75" fill-rule="evenodd">
+   <path d="m96.674 163.4l22.951 5.7557 21.139-6.0641"/>
+   <path d="m102.96 201.74l16.79-21.07 13.046 20.865"/>
+   <path d="m119.76 180.71v-22.494"/>
+  </g>
+  <g stroke-miterlimit="100">
+   <path d="m135.34 146.3a15.312 12.001 0 1 1 -30.624 0 15.312 12.001 0 1 1 30.624 0z"/>
+   <path d="m118.58 143.91a2.4474 2.0824 0 1 1 -4.8948 0 2.4474 2.0824 0 1 1 4.8948 0z"/>
+   <path d="m126.62 143.91a2.4474 2.0824 0 1 1 -4.8948 0 2.4474 2.0824 0 1 1 4.8948 0z"/>
+   <path d="m128.75 150.19a12.819 11.777 0 0 1 -16.415 0.5238"/>
+  </g>
+ </g>
+ <path d="m118.49 183.77l2.2482 0.0364 1.3159-1.0564-0.0486-3.3786-1.3797 0.5008-1.4701 0.0073-1.6002-0.5045-0.0904 3.0854 1.025 1.3095z" fill="url(#a)" stroke="#999"/>
+</svg>
