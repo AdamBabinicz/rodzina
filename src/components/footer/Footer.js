@@ -144,8 +144,9 @@ const Footer = () => {
                     href="https://warhist.pl/artykul/rodzina-ulmow-tragiczne-bohaterstwo"
                     target="_blank"
                     rel="noopener noreferrer"
-                  ></a>
-                  <li>Rodzina Ulmów</li>
+                  >
+                    <li>Rodzina Ulmów</li>
+                  </a>
                 </ul>
               </div>
             </div>
