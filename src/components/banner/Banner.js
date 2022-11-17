@@ -48,10 +48,9 @@ const Banner = () => {
                   że dobrze jest mieć zawsze dokąd wrócić - zarówno po to, by
                   pochwalić się sukcesami jak i po to, by leczyć rany po
                   niepowodzeniach" - podkreślała prof. Brzezińska. - Wbrew
-                  potocznym opiniom nawet starsi starsi oczekują od swych
-                  bliskich nie tylko pomocy i opieki, ale także kłótni,
-                  spojrzenia z dystansu, zademonstrowania swego zdania,
-                  wyrażenia niezgody".
+                  potocznym opiniom nawet starsi oczekują od swych bliskich nie
+                  tylko pomocy i opieki, ale także kłótni, spojrzenia z
+                  dystansu, zademonstrowania swego zdania, wyrażenia niezgody".
                 </p>
                 <div className="services__modal-services">
                   <img src={img1} alt="..." />
