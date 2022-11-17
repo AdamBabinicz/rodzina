@@ -83,4 +83,10 @@ footer {
       place-items: center;
     }
   }
+  p {
+    text-align: center;
+    font-weight: bold;
+    background: var(--dark-violet);
+    color: #fff;
+  }
 }

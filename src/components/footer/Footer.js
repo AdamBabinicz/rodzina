@@ -150,6 +150,7 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
+            <p>Radom, 2022 - {new Date().getFullYear()}.</p>
           </div>
         </div>
       </footer>
