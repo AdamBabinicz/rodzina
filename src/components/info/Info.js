@@ -23,7 +23,10 @@ const Info = () => {
             <div className="people">
               <img src={images.people_first} alt="..." />
               <h3>Syn</h3>
-              <p>Uczy się, uwielbia dinozaury.</p>
+              <p>
+                Uczy się, uwielbia dinozaury i&nbsp;zabawki z&nbsp;serii
+                Minecraft.
+              </p>
             </div>
           </div>
         </div>
